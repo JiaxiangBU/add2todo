@@ -2,6 +2,8 @@
 output: github_document
 ---
 
+  [![Travis build status](https://travis-ci.org/JiaxiangBU/add2todo.svg?branch=master)](https://travis-ci.org/JiaxiangBU/add2todo)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r setup, include = FALSE}
@@ -14,36 +16,26 @@ knitr::opts_chunk$set(
 ```
 # add2todo
 
-The goal of add2todo is to ...
+The goal of add2todo is to summarise the todo-list in the different documents.
 
 ## Installation
 
-You can install the released version of add2todo from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of add2todo from [Github](https://github.com/JiaxiangBU/add2todo) with:
 
-``` r
-install.packages("add2todo")
+```{r eval=F}
+devtools::install_github('JiaxiangBU/add2todo')
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-## basic example code
+```{r eval=F}
+library(add2todo)
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+***
 
-```{r cars}
-summary(cars)
-```
+<h4 align="center">**Code of Conduct**</h4>
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
+<h6 align="center">Please note that the 'add2md' project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).<br>By contributing to this project, you agree to abide by its terms.</h6>
 
-You can also embed plots, for example:
+<h4 align="center">**License**</h4>
 
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
+<h6 align="center">GPL-3 &copy; [Jiaxiang Li](LICENSE.md)</h6>

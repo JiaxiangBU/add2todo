@@ -1,3 +1,5 @@
+^LICENSE\.md$
+^CODE_OF_CONDUCT\.md$
 ^README\.Rmd$
 ^add2todo\.Rproj$
 ^\.Rproj\.user$
