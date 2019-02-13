@@ -3,6 +3,7 @@
 * Added the function `todos`.
 * Updated DESC.
 * Added github link.
+* Built site.
 
 # add2todo 0.0.0.9000
 
