@@ -1,6 +1,7 @@
 # add2todo 0.1.0
 
 * Added the function `todos`.
+* Updated DESC
 
 # add2todo 0.0.0.9000
 

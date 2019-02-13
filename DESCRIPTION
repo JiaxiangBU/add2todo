@@ -1,9 +1,9 @@
 Package: add2todo
-Title: What the Package Does (one line, title case)
+Title: Write todo list in R
 Version: 0.1.0
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.5.2)
+Authors@R: person("Jiaxiang", "Li", role = c("aut", "cre"), email = "alex.lijiaxiang@foxmail.com")
+Description: Summarise the todo-list in the different documents.
+Depends: R (>= 3.5.1)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

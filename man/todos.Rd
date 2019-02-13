@@ -4,7 +4,7 @@
 \alias{todos}
 \title{Todo List}
 \usage{
-todos(path = ".")
+todos(dir = ".")
 }
 \value{
 data.frame
