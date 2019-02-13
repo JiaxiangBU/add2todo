@@ -1,7 +1,8 @@
 # add2todo 0.1.0
 
 * Added the function `todos`.
-* Updated DESC
+* Updated DESC.
+* Added github link.
 
 # add2todo 0.0.0.9000
 
