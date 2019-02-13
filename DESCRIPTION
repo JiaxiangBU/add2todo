@@ -7,3 +7,13 @@ Depends: R (>= 3.5.2)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    rebus,
+    xfun,
+    stringr,
+    dplyr,
+    purrr,
+    tidyr,
+    magrittr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
