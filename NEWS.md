@@ -4,3 +4,4 @@
 * Added a `README.Rmd` file.
 * Added a R project environment.
 * Added license and coc.
+* Added `%>%`
